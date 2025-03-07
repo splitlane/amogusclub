@@ -1,0 +1,19 @@
+3:"$Sreact.fragment"
+4:I[617,["189","static/chunks/189-29f9b12c24e36101.js","185","static/chunks/app/layout-4e30a03f39868b74.js"],"Theme"]
+5:I[4057,["189","static/chunks/189-29f9b12c24e36101.js","185","static/chunks/app/layout-4e30a03f39868b74.js"],"default"]
+6:I[7960,[],""]
+7:I[5625,[],""]
+8:I[5577,[],"ClientPageRoot"]
+9:I[6240,["507","static/chunks/5bb8e170-a3c1db412fc16912.js","189","static/chunks/189-29f9b12c24e36101.js","194","static/chunks/194-7e0e90ea21ce0cf8.js","931","static/chunks/app/page-72e6ba6d1ac7bea3.js"],"default"]
+c:I[8165,[],"OutletBoundary"]
+e:I[8165,[],"MetadataBoundary"]
+10:I[8165,[],"ViewportBoundary"]
+12:I[810,[],""]
+1:HL["/_next/static/css/4ad10093a0c9c673.css","style"]
+2:HL["/_next/static/css/bd02915611f90898.css","style"]
+0:{"P":null,"b":"mYCPdThUzhShvW8nTz_5r","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4ad10093a0c9c673.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/bd02915611f90898.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"accentColor":"grass","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]}]}]]}],{"children":["__PAGE__",["$","$3","c",{"children":[["$","$L8",null,{"Component":"$9","searchParams":{},"params":{},"promises":["$@a","$@b"]}],null,["$","$Lc",null,{"children":"$Ld"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","7uPbvZNFC3j_6mcXDnAh4",{"children":[["$","$Le",null,{"children":"$Lf"}],["$","$L10",null,{"children":"$L11"}],null]}]]}]]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+a:{}
+b:{}
+11:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"amogus.wiki"}],["$","meta","2",{"name":"description","content":"amogus.wiki"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+d:null
